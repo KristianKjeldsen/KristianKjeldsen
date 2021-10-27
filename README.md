@@ -1,5 +1,6 @@
 ﻿### Hi there, my name is Kristian 👋
 
+I am a Senior Researcher at the Department of Glaciology and Climate, GEUS.
 
 
 <!--
